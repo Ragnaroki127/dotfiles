@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled sorted 
+df7e263134528a255bfde904309f9225aca86cb3 refs/remotes/origin/compilation-database-background
+97645eaf69488c538f973d8527e8d1774c4e6a92 refs/remotes/origin/config-inheritance
+9c23b9075e3716f4ee5f83a3233bbee13fea15b2 refs/remotes/origin/disable-clang_complete
+b9b0491d4e23de33622f4639a6d0ab65f6d07356 refs/remotes/origin/disable-warmup-cache
+478611d83556bc2537157f1c5c4b4bd05ea2ad8d refs/remotes/origin/fix-user-options
+75671d82eed0651f3396b3604f2b9980e6143bce refs/remotes/origin/goto-declaration
+a5357fc82441262ef46cc775f47cb9c0184e2671 refs/remotes/origin/issue270
+c48d35dcfe68e3526de706cc15e2a44977b99312 refs/remotes/origin/issue297
+16e5cefc44d6a1d15e72181b2606cd9b0e869669 refs/remotes/origin/issue299
+2bdcbc944b132c832a0cd0209290cd1d8004d1e9 refs/remotes/origin/issue559
+f0f739369a5313dd5099052886c221c165b85e11 refs/remotes/origin/kill-bg-thread
+b19924c4cb4276c2e4f217df81a8909568b07cdb refs/remotes/origin/kill-clang
+31280bde3cb86ab77064dbf31d023637f4790b61 refs/remotes/origin/list-symbols-test
+293a1062274a06be61797612034bd8d87851406e refs/remotes/origin/master
+9ae860962132416258b4ff0f07f17a6ce09c6294 refs/remotes/origin/new-snippet-api
+8fa8cd5b8421fb8406ed9e5318f09c35f861a76f refs/remotes/origin/old-clang
+c5d8cc74d3e3892fab3abf453784bdca67a77cdd refs/remotes/origin/old_cr
+5d25e3bc19f26bf65bd601bccd12b637a4998861 refs/remotes/origin/one-thread-tu
+9c925fbf08dcc79367aa0e0dc70f7b5197d35028 refs/remotes/origin/pyeval
+d721165d342d653c89f1cea7eaf554d635f4b71a refs/remotes/origin/python-popen-bug
+557e986d3a32145143416ea4319318596d675c00 refs/remotes/origin/remove-snipmate
+08efa43d4ab7be8239aff49da6424475d0eb48c3 refs/remotes/origin/update-doc
+8fa8cd5b8421fb8406ed9e5318f09c35f861a76f refs/tags/v1.8

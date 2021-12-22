@@ -1,0 +1,15 @@
+Host jmck
+  HostName 219.223.181.234
+  User jmck2020
+  IdentityFile ~/.ssh/id_rsa
+
+Host caii
+  HostName 114.67.124.220
+  Port 22
+  User yanhaoxin
+  IdentityFile ~/.ssh/id_rsa
+
+Host yhx
+  HostName 219.223.185.125
+  User YanHaoxin
+  IdentityFile ~/.ssh/id_rsa
